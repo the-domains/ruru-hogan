@@ -1,0 +1,28 @@
+name: Ruru Hogan
+favicon: null
+layout_spectrum: 0.44139151251874864
+typography_spectrum: 0.3318041330203414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5181413840036839
+  lightness: 0.9290496162138879
+  saturation: 0.8532933578826487
+  rhythmicContrast: 0.015567826805636287
+purpose: []
